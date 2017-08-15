@@ -1,0 +1,26 @@
+{
+  "name": "jquery.datepicker-plus-css",
+  "version": "1.0.0",
+  "description": "Just the datepicker lib from jquery ui v1.11.4 + default css (base theme)",
+  "main": "jquery-datepicker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shallowones/jquery.datepicker-plus-css.git"
+  },
+  "keywords": [
+    "jquery",
+    "jquery-ui",
+    "datepicker",
+    "jquery.datepicker",
+    "1.11.4"
+  ],
+  "author": "shallowones",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shallowones/jquery.datepicker-plus-css/issues"
+  },
+  "homepage": "https://github.com/shallowones/jquery.datepicker-plus-css#readme"
+}
